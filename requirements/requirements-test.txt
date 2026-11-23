@@ -1,0 +1,16 @@
+pytest
+coverage==7.2.3
+pytest-testmon==2.2.0
+torchvision
+timm
+torchaudio>=0.13.1
+contexttimer
+einops
+triton
+SentencePiece
+ninja
+flash_attn
+datasets
+pydantic
+ray
+peft>=0.7.1
